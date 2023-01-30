@@ -1,17 +1,17 @@
 ### Hi there, I'm Michael Getz 👋
 
 <p align="center">
-<a href="https://www.linkedin.com/in/michael-getz-340/" target="_blank">
+<a href="https://www.linkedin.com/in/michael-getz-340/" >
 <img src="./assets/Images/icons8-linkedin-48.png" />
 </a>
 
 <p align="center">
-<a href="" target="_blank">
-<img src="" />
+<a href="https://mgetz34.github.io/portfolio2.0/" >
+<img src="./assets/Images/icons8-bag-64.png" />
 </a>
 
 <p align="center">
-<a href="" target="_blank">
+<a href="" >
 <img src="" />
 </a>
 
@@ -30,14 +30,14 @@
 <hr>
 <details>
 <summary>GitHub Statistics...</summary>
-<p align = "center">
+<p align = "center" >
 <img src="https://github-readme-stats.vercel.app/api?username=mgetz34&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 </details>
 
 <details>
 <summary>Language Statistics...</summary><br />
-<p align="center">
+<p align = "center">
 <img src="https://wakatime.com/share/@4c308fca-1187-41a9-9617-2f4c38597950/aa7f1248-6215-4cd8-b1dc-5d5ad2daf462.svg" height="400" />
 </p>
 </details>
