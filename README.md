@@ -35,7 +35,6 @@
 </p>
 </details>
 
-<<<<<<< HEAD
 <details>
 <summary>Language Statistics...</summary><br />
 <p align="center">
@@ -43,5 +42,3 @@
 </p>
 </details>
 <hr>
-=======
->>>>>>> 9beeef7784d2f0a3ce5e7dfd8ce38491cc17a44e
