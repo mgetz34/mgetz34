@@ -1,5 +1,6 @@
 ### Hi there, I'm Michael Getz 👋
 
+<div display = "inline">
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-getz-340/" >
 <img src="./assets/Images/icons8-linkedin-48.png" />
@@ -14,6 +15,7 @@
 <a href="" >
 <img src="" />
 </a>
+</div>
 
 - 🔭 I’m currently working on ... Continued development on a social-media app: Frogr
 - 🌱 I’m currently learning ... TypeScript, Python, AWS
