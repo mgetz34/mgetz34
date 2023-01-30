@@ -1,21 +1,18 @@
 ### Hi there, I'm Michael Getz 👋
 
-<div display = "inline">
 <p align="center">
-<a href="https://www.linkedin.com/in/michael-getz-340/" >
-<img src="./assets/Images/icons8-linkedin-48.png" />
-</a>
+    <i>Contact Me!</i>
 
 <p align="center">
-<a href="https://mgetz34.github.io/portfolio2.0/" >
-<img src="./assets/Images/icons8-bag-64.png" />
+    <a href="https://www.linkedin.com/in/michael-getz-340/" >
+        <img src="./assets/Images/icons8-linkedin-48.png" />
+    </a>
+    <a href="https://mgetz34.github.io/portfolio2.0/" >
+    <img src="./assets/Images/icons8-bag-64.png" />
+    </a>
+    <a href="https://docs.google.com/document/d/1hYjTnEG46ZDrn3ApSK0IbWef8VDkMyOTuxSw-qNJBRg/edit?usp=sharing" >
+    <img src="./assets/Images/icons8-cv-64.png" />
 </a>
-
-<p align="center">
-<a href="https://docs.google.com/document/d/1hYjTnEG46ZDrn3ApSK0IbWef8VDkMyOTuxSw-qNJBRg/edit?usp=sharing" >
-<img src="./assets/Images/icons8-cv-64.png" />
-</a>
-</div>
 
 - 🔭 I’m currently working on ... Continued development on a social-media app: Frogr
 - 🌱 I’m currently learning ... TypeScript, Python, AWS
