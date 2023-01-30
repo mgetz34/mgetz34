@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on ... Continued development on a social-media app: Frogr
 - 🌱 I’m currently learning ... TypeScript, Python, AWS 
-- 👯 I’m looking to collaborate on ... OpenSource projects and collabrative development 
-- 🤔 I’m looking for help with ... Carrer advice and prospects
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on ... open source projects and creative initiatves!
+- 🤔 I’m looking for help with ... Success in development portfolio diversification
+- 💬 Ask me about ... Bikes, Skis, and Database Development
+- 📫 How to reach me: ... mgetz340@gmail.com 
 - ⚡ Fun fact: ... I played the violin for 7 years!
 
 
