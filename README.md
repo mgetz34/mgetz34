@@ -1,5 +1,7 @@
 ### Hi there, I'm Michael Getz 👋
 
+[![wakatime](https://wakatime.com/badge/github/mgetz34/E-commerce-Back-End.svg)](https://wakatime.com/badge/github/mgetz34/E-commerce-Back-End)
+
 <p align="center">
     <i>Contact Me!</i>
 
