@@ -12,8 +12,8 @@
 </a>
 
 <p align="center">
-<a href="" >
-<img src="" />
+<a href="https://docs.google.com/document/d/1hYjTnEG46ZDrn3ApSK0IbWef8VDkMyOTuxSw-qNJBRg/edit?usp=sharing" >
+<img src="./assets/Images/icons8-cv-64.png" />
 </a>
 </div>
 
