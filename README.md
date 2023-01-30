@@ -14,10 +14,5 @@
 
 <img
   src="https://github.com/mgetz34/mgetz34/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Mgetz34 WakaTime Activity"
 />
