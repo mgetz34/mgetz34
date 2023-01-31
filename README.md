@@ -1,10 +1,11 @@
 ## Hi there!👋
 
-# I'm Michael Getz. I am a certified full-stack web developer with a preference for backend technologies. I am currently learning about MultiCloud and DevOps. Motivated to develop my coding ability and teamwork strengths with like-minded individuals and cross-functional teams. 
+<p> I'm Michael Getz. I am a certified full-stack web developer with a preference for backend technologies. I am currently learning about MultiCloud and DevOps. Motivated to develop my coding ability and teamwork strengths with like-minded individuals and cross-functional teams. 
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,apollo,aws,bootstrap,css,discord,docker,express,gcp,git,github,graphql,heroku,html,js,kubernetes,mongodb,mysql,nodejs,react,vscode,webpack,terraform&perline=11" />
+    <img src="https://skillicons.dev/icons?i=ansible,apollo,aws,bootstrap,css,discord,docker,express,gcp,git,github,graphql,heroku,html,js,kubernetes,mongodb,mysql,nodejs,react,vscode,webpack&perline=11" />
   </a>
 </p>
 
