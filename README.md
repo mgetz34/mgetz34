@@ -1,4 +1,4 @@
-### Hi there, I'm Michael Getz 👋
+## Hi there, I'm Michael Getz 👋
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,expressjs,react,nodejs,docker,git,kubernetes,mysql)](https://skills.thijs.gg)
 
@@ -28,6 +28,9 @@
 - ⚡ Fun fact: ... I played the violin for 7 years!
 
 ## Welcome to my profile!
+
+<p align="center">
+    <i>Visitor Count</i>
 
 ![Visitor Count](https://profile-counter.glitch.me/{mgetz34}/count.svg)
 
