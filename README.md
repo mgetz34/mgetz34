@@ -29,7 +29,7 @@
 
 ## Welcome to my profile!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${mgetz34}.${115820984})
+![Visitor Count](https://profile-counter.glitch.me/{mgetz34}/count.svg)
 
 <hr>
 <details>
