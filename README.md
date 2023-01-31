@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with ... Success in development & portfolio diversification
 - 💬 Ask me about ... Bikes, Skis, Database Structure, or Anything!
 - 📫 How to reach me: ... mgetz340@gmail.com
-  <a href="https://mgetz34.github.io/portfolio2.0/" >
+  <a href="https://mgetz34.github.io/portfolio2.0/" >LinkedIn
   </a>
 - ⚡ Fun fact: ... I played the violin for 7 years!
 
