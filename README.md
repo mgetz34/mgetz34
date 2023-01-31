@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/michael-getz-340/" >
-        <img src="./assets/Images/icons8-linkedin-48.png" />
+        <img src="./assets/Images/icons8-linkedin-64.png" />
     </a>
     <a href="https://mgetz34.github.io/portfolio2.0/" >
     <img src="./assets/Images/icons8-bag-64.png" />
