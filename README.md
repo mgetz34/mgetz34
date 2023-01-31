@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael Getz 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,espressjs,react,nodejs,docker,git,kubernetes,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,expressjs,react,nodejs,docker,git,kubernetes,mysql)](https://skills.thijs.gg)
 
 <p align="center">
     <i>Contact Me!</i>
