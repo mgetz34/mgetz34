@@ -1,5 +1,7 @@
 ### Hi there, I'm Michael Getz 👋
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,espressjs,react,nodejs,docker,git,kubernetes,mysql)](https://skills.thijs.gg)
+
 <p align="center">
     <i>Contact Me!</i>
 
@@ -12,14 +14,17 @@
     </a>
     <a href="https://docs.google.com/document/d/1hYjTnEG46ZDrn3ApSK0IbWef8VDkMyOTuxSw-qNJBRg/edit?usp=sharing" >
     <img src="./assets/Images/icons8-cv-64.png" />
-</a>
+    </a>
+</p>
 
 - 🔭 I’m currently working on ... Continued development on a social-media app: Frogr
-- 🌱 I’m currently learning ... TypeScript, Python, AWS
+- 🌱 I’m currently learning ... AWS, Terraform, Docker, Kubernetes, & Google Cloud DevOps
 - 👯 I’m looking to collaborate on ... Open source projects and creative initiatves!
 - 🤔 I’m looking for help with ... Success in development & portfolio diversification
-- 💬 Ask me about ... Bikes, Skis, and Database Development
+- 💬 Ask me about ... Bikes, Skis, Database Structure, or Anything!
 - 📫 How to reach me: ... mgetz340@gmail.com
+  <a href="https://mgetz34.github.io/portfolio2.0/" >
+  </a>
 - ⚡ Fun fact: ... I played the violin for 7 years!
 
 ## Welcome to my profile!
