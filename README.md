@@ -1,6 +1,12 @@
-## Hi there, I'm Michael Getz 👋
+## Hi there!👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,expressjs,react,nodejs,git,docker,aws,terraform,kubernetes,mysql)](https://skills.thijs.gg)
+# I'm Michael Getz. I am a certified full-stack web developer with a preference for backend technologies. I am currently learning about MultiCloud and DevOps. Motivated to develop my coding ability and teamwork strengths with like-minded individuals and cross-functional teams. 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,apollo,aws,bootstrap,css,discord,docker,express,gcp,git,github,graphql,heroku,html,js,kubernetes,mongodb,mysql,nodejs,react,vscode,webpack,terraform&perline=11" />
+  </a>
+</p>
 
 <p align="center">
     <i>Contact Me!</i>
