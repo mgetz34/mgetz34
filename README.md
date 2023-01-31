@@ -1,6 +1,6 @@
 ## Hi there, I'm Michael Getz 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,expressjs,react,nodejs,docker,git,kubernetes,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,expressjs,react,nodejs,git,docker,aws,terraform,kubernetes,mysql)](https://skills.thijs.gg)
 
 <p align="center">
     <i>Contact Me!</i>
@@ -18,7 +18,7 @@
 </p>
 
 - 🔭 I’m currently working on ... Continued development on a social-media app: <a href="https://frogr-app.herokuapp.com/">Frogr</a>
-- 🌱 I’m currently learning ... AWS, Terraform, Docker, Kubernetes, & Google Cloud DevOps
+- 🌱 I’m currently learning ... MultiCloud & DevOps
 - 👯 I’m looking to collaborate on ... Open source projects and creative initiatves!
 - 🤔 I’m looking for help with ... Success in development & portfolio diversification
 - 💬 Ask me about ... Bikes, Skis, Database Structure, or Anything!
