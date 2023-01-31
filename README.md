@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on ... Continued development on a social-media app: Frogr
+- 🔭 I’m currently working on ... Continued development on a social-media app: <a href="https://frogr-app.herokuapp.com/">Frogr</a>
 - 🌱 I’m currently learning ... AWS, Terraform, Docker, Kubernetes, & Google Cloud DevOps
 - 👯 I’m looking to collaborate on ... Open source projects and creative initiatves!
 - 🤔 I’m looking for help with ... Success in development & portfolio diversification
